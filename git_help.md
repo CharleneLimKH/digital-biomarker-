@@ -15,7 +15,7 @@ When it's done you will see a message like this
     Your identification has been saved in C:\Users\charl/.ssh/id_ed25519_github
     Your public key has been saved in C:\Users\charl/.ssh/id_ed25519_github.pub
     The key fingerprint is:
-    SHA256:z8HlvYcsSLPSLbxYjc31wg65TOk+rFezdXN5S9cO5Hg charlene.lim.kh@gmail.com
+    SHA256: ..... charlene.lim.kh@gmail.com
     The key's randomart image is:
     +--[ED25519 256]--+
     |                 |
